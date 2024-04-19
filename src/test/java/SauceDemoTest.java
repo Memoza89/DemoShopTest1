@@ -20,6 +20,7 @@ public class SauceDemoTest extends BaseTest {
         checkoutPage.enterFirstName("Iuliia");
         checkoutPage.enterLastName("Ziuzko");
         checkoutPage.enterZipCode("1234589");
-        checkoutPage.continueToNextStep();
+        checkoutPage.
+                continueToNextStep();
     }
 }
