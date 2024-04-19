@@ -17,7 +17,7 @@ public class SauceDemoTest extends BaseTest {
 
         cartPage.proceedToCheckout();
 
-        checkoutPage.enterFirstName("Iuliia");
+        checkoutPage.enterFirstName("Iuliia222");
         checkoutPage.enterLastName("Ziuzko");
         checkoutPage.enterZipCode("1234589");
         checkoutPage.
